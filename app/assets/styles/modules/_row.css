@@ -1,0 +1,13 @@
+.row {
+
+@mixin atMedium {
+    &__medium-4--larger {
+        width: 37%
+    }
+
+    &__medium-8--smaller {
+        width: 63%;
+    }
+}
+
+}
